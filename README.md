@@ -2,7 +2,7 @@
 personal practice for openGL which is base on Phong model
 
 ## TODO
-Intergration to a raster render
+Intergration to a raster render, 
 improve from Phong model to PDR
 
 ## Reference
